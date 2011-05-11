@@ -1,0 +1,11 @@
+README :)
+
+* changepass
+Tool for changing password for regular user it need old and new password for
+succesfull change of password
+
+* fchangepass
+Tool for FORCED changing of password
+Needed for sysadmin to change password of user without knowing his old password
+it could be executed only by uid 0 (root)
+
